@@ -1,6 +1,6 @@
 # Introduction
 
-## Goose Vault <a id="goose-vault"></a>
+## Meow Meow Vault <a id="goose-vault"></a>
 
 Goose Vault is a yield optimizer platform focused on providing DeFi users with auto-compounded yields at empirical optimal intervals. Goose Vault uses a proprietary dynamic harvesting optimizer to enable the highest APYs on our vaults.
 
